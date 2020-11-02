@@ -1,0 +1,6 @@
+{
+  "name": "yarn-custom-tag-poc-dep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
